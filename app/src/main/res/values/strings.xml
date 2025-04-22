@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RecipeBookApp</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Main Couse</string>
+    <string name="snacks">Snacks</string>
+    <string name="salad">Salad</string>
+    <string name="soup">Soup</string>
+    <string name="indian">Indian</string>
+    <string name="beverages">Beverages</string>
+    <string name="dessart">Desserts</string>
+
+    <string name="dish_1">Chocolate Cake</string>
+    <string name="dish_2">Grilled Chicken</string>
+    <string name="dish_3">Spring Rolls</string>
+    <string name="dish_4">Greek Salad</string>
+    <string name="dish_5">Vannila Icecream</string>
+    <string name="dish_6">Spaghetti Bolognese</string>
+    <string name="dish_7">Guacamol</string>
+    <string name="dish_8">Caesar Salad</string>
+    <string name="dish_9">Caprese Salad</string>
+    <string name="dish_10">Vegan Tacos</string>
+    <string name="dish_11">Lentil Soup</string>
+    <string name="dish_12">Butter Chicken</string>
+    <string name="dish_13">Paneer Tikka</string>
+    <string name="dish_14">Veg Pulao</string>
+    <string name="dish_15">Dal Tadka</string>
+    <string name="dish_16">Samosha</string>
+    <string name="dish_17">French Fries</string>
+    <string name="dish_18">Masala Corn</string>
+    <string name="dish_19">Cheese Balls</string>
+    <string name="dish_20">Mango Shake</string>
+    <string name="dish_21">Cold Coffee</string>
+    <string name="dish_22">Lemonade</string>
+    <string name="dish_23">Strawberry Smoothie</string>
+    <string name="dish_24">Iced Tea</string>
+    
+</resources>

@@ -54,7 +54,7 @@ fun CategoryScreen(
                 modifier = Modifier.align(Alignment.TopCenter)
             )
         }
-        if(Repository.loadRecipe())
+//        if(Repository.loadRecipe())
 
         LazyRow(
             modifier = Modifier.fillMaxSize(),
